@@ -1,0 +1,21 @@
+body {
+    background-image: url(../img/5.jpg);
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.container{
+    width: 55%;
+    height: auto;
+    margin: auto;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+.bandeja{
+    width: 50%;
+    margin: auto;
+}
