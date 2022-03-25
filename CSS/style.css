@@ -1,21 +1,30 @@
 body {
-    background-image: url(../img/5.jpg);
+    background-color: #f3f4f5;
+    /*background-image: url(../img/5.jpg);*/
     /* background-repeat: no-repeat;
     background-size: cover; */
 }
 
 .container{
-    width: 55%;
+    width: 75%;
     height: auto;
     margin: auto;
 }
 
 h1{
-    color: blue;
+    font-family: Arial;
+    font-size: 24px;
+    color: black;
     text-align: center;
 }
 
 .bandeja{
     width: 50%;
     margin: auto;
+}
+
+p{
+    font-family: Georgia;
+    font-size: 18px;
+    color: #757575;
 }
